@@ -8,11 +8,12 @@ It currently include:
 # Roadmap
 
 ## Virtual Machine (VirtualBox)
-- Desktop Builder: randomly change the appearance and the content of your desktop with a click 
+- Desktop Builder: change the appearance and the content of a desktop with a click 
 
 ## ScammerReacher
 - Phone Number Registry & Tester
 - Email Registry & Tester
+- Google Maps Contact information Gathering - By keyword & Location
 
 ## Email
 - Email Spoofer
